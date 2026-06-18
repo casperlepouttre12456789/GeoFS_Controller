@@ -6,8 +6,10 @@ The materials required are:
 5 MX-style switches
 2 4 mm LEDs (can be any color but I used red and green)
 seeeduino rp 2040
-3D-printed case
+3D-printed case and
 custom pcb 
+
+
 Assembly
 
 PCB assembly is pretty straightforward if there is a white line between 2 holes; you need to connect them on the back, and then you just put it in the case and put the top one on (it should stay on without screws), and I will also make a tutorial when I get the PCB.
