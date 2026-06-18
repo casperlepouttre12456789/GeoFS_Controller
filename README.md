@@ -16,7 +16,7 @@ Setting up
 
 Setting up is pretty simple; you just flash the main.py to your Xiao RP2040, and then you are going to have to launch Geofs and use the trim button to get the cursor in the middle (first time only, this saves).
 Then you are going to want to bind keys to actions. What I did was 1, trim, but you can’t change the keybind for this one without messing with the code; 2 is landing gear toggle automatically but you can change buttons 2 to 5 in keybinds; 3, flaps toggle; 4, airbrake; and 5, wheel brake (has to stay wheelbrake because this one isn’t a toggle)
-blob:chrome-untrusted://media-app/c6bf5234-ba26-4d7b-ae9b-0a4554a2e558 
+![Screenshot](Screenshot_2026-06-18_17-28-46.png)
 
 Using the hackpad
 
